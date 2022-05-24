@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="font_size_normal">17sp</dimen>
+    <dimen name="font_size_medium">16sp</dimen>
+    <dimen name="font_size_small">14sp</dimen>
+
+    <dimen name="list_item_image_height">90dip</dimen>
+    <dimen name="list_item_image_width">150dip</dimen>
+    <dimen name="divider_height">1dp</dimen>
+
+    <dimen name="padding_small">5dip</dimen>
+    <dimen name="padding_normal">8dp</dimen>
+    <dimen name="padding">10dip</dimen>
+    <dimen name="padding_large">15dip</dimen>
+</resources>
